@@ -10,4 +10,4 @@ Nama ku Gista, siswa kelas *10 RPL-2* dari **SMKN 1 Purwosari**
 | Apps | Username |
 | :--- | :--- |
 | ![HTML5](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)| Fvenellmon |
-| ![halo](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) Fvenellmon |
+| ![halo](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)| Fvenellmon |
